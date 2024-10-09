@@ -3,7 +3,6 @@
 ## I'm a Developer, and Football freak!!
 
 - ⚛️ I’m currently learning lot of Frontend technologies
-- 🥅 2020 Goals: Learning new technologies and Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel and play games
 
 ### Connect with me:
